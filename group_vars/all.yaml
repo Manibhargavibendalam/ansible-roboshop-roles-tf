@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.manibhargavi2225.online
+REDIS_HOST: redis.manibhargavi2225.online
+CATALOGUE_HOST: catalogue.manibhargavi2225.online
+CART_HOST: cart.manibhargavi2225.online
+MYSQL_HOST: mysql.manibhargavi2225.online
+USER_HOST: user.manibhargavi2225.online
+RABBITMQ_HOST: rabbitmq.manibhargavi2225.online
+PAYMENT_HOST: payment.manibhargavi2225.online
+SHIPPING_HOST: shipping.manibhargavi2225.online
