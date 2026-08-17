@@ -1,2 +1,2 @@
 
-MONGODB_HOST: mongodb-{{ env }}.manibhargavi2225.online
+# MONGODB_HOST: mongodb-{{ env }}.manibhargavi2225.online
