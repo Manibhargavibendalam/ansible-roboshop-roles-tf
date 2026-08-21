@@ -1,9 +1,9 @@
 MONGODB_HOST: mongodb-{{ env }}.manibhargavi2225.online #mongodb-dev-{{ env }}.manibhargavi2225.online
 REDIS_HOST: redis-{{ env }}.manibhargavi2225.online
-CATALOGUE_HOST: catalogue-{{ env }}.manibhargavi2225.online
-CART_HOST: cart-{{ env }}.manibhargavi2225.online
-MYSQL_HOST: mysql-{{ env }}.manibhargavi2225.online
-USER_HOST: user-{{ env }}.manibhargavi2225.online
+CATALOGUE_HOST: catalogue.backend-alb-{{ env }}.manibhargavi2225.online
+CART_HOST: cart.backend-alb-{{ env }}.manibhargavi2225.online
+USER_HOST: user.backend-alb-{{ env }}.manibhargavi2225.online
 RABBITMQ_HOST: rabbitmq-{{ env }}.manibhargavi2225.online
-PAYMENT_HOST: payment-{{ env }}.manibhargavi2225.online
-SHIPPING_HOST: shipping-{{ env }}.manibhargavi2225.online
+MYSQL_HOST: mysql-{{ env }}.manibhargavi2225.online
+PAYMENT_HOST: payment.backend-alb-{{ env }}.manibhargavi2225.online
+SHIPPING_HOST: shipping.backend-alb-{{ env }}.manibhargavi2225.online
